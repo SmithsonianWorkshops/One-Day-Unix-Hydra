@@ -4,10 +4,11 @@
 
 **1. Download and navigate to the workshop data**
 
+- Click on the top right `Clone or Download` button and download this repository.
 - Open your terminal window. On a Mac, this is contained in the Utilities folder within your Applications folder. On Unix, it should be in your Applications folder as well.
 - `cd` into the directory that contains the workshop `.zip` file (on a Mac, this is likely to be `~/Downloads`)
-- Enter the command `unzip STRI_07_2015-master.zip`
-- Now `cd` into the new `STRI_07_2015-master` directory
+- Enter the command `unzip One-Day-Unix-Hydra-master.zip`
+- Now `cd` into the new `One-Day-Unix-Hydra-master` directory
 
 **2. Make a directory and copy your contents into it**
 
@@ -15,6 +16,8 @@
 - Copy both sequence files into your `sequences` directory
 - Change directories into your `sequences` directory
 - Now print the path of the directory you are in to the screen
+
+*Hint-to make a directory, user the `mkdir` command and to copy, use the `cp` command*
 
 **3. Viewing file contents**
 
